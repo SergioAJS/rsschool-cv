@@ -12,6 +12,8 @@
 
 ## Briefly about myself:
 
+I work as car diagnostician. I like to spend a lot of time at the computer. My goal to change my profession, get knowledge and skills for employment as frontend developer.
+
 ## Skills:
 
 - HTML5
