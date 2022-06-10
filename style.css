@@ -29,7 +29,7 @@ body {
 }
 
 .header {
-    background-color: rgb(241, 204, 247);
+    background-color: rgb(246, 217, 250);
     border-bottom: 2px solid rgb(203, 110, 203);
 }
 
@@ -113,10 +113,10 @@ body {
 .icon:before {
     content: "";
     position: absolute;
-    top: 1px;
+    top: 2px;
     left: 0px;
-    width: 24px;
-    height: 24px;
+    width: 25px;
+    height: 25px;
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -174,6 +174,20 @@ h3 {
 }
 
 .footer {
-    background-color: rgb(241, 204, 247);
+    background-color: rgb(246, 217, 250);
     border-top: 2px solid rgb(203, 110, 203);
+    padding: 20px 60px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rsschool {
+    width: 120px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-image: url(./assets/svg/rs_school_js.svg);
 }
