@@ -1,0 +1,193 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url("./assets/fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url("./assets/fonts/Lora-Regular.ttf");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    font-family: Lora, sans-serif;
+    line-height: 28px;
+    font-size: 18px;
+}
+
+.header {
+    background-color: rgb(246, 217, 250);
+    border-bottom: 2px solid rgb(203, 110, 203);
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+#avatar {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+}
+
+.container {
+    max-width: 1440px;
+    margin: o auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    font-size: 18px;
+    padding: 0 14px;
+    line-height: 50px;
+}
+
+.nav-list a {
+    color: #727973;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+
+.nav-list a:hover {
+    color: #291313;
+}
+
+.main {
+    background-color:rgb(248, 223, 255);
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.section {
+    width: 50%;
+    padding: 10px 50px;
+}
+
+.list {
+    list-style: none;
+}
+
+.contacts-item {
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+
+.icon:nth-child(1):before {
+   background-image: url(./assets/img/geo.png);
+}
+
+.icon:nth-child(2):before {
+    background-image: url(./assets/img/email.png);
+ }
+
+ .icon:nth-child(3):before {
+    background-image: url(./assets/svg/Telegram_logo.svg);
+ }
+
+.icon:before {
+    content: "";
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: Roboto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family: Roboto;
+    color: #4d3f31;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-family: Roboto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.link a {
+    color: #526a55;
+    text-decoration: none;
+}
+
+.link a:hover {
+    color: #2b1414;
+}
+
+.list-item {
+    position: relative;
+    padding-left: 25px;
+}
+
+.list-item:before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 5px;
+    height: 5px; 
+    border: 2px solid #37436f;
+    border-radius: 50%;
+  }
+
+.paragraph {
+    padding-left: 40px;
+}
+
+.code {
+    font-size: 14px;
+}
+
+.footer {
+    background-color: rgb(246, 217, 250);
+    border-top: 2px solid rgb(203, 110, 203);
+    padding: 20px 60px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rsschool {
+    width: 120px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-image: url(./assets/svg/rs_school_js.svg);
+}
