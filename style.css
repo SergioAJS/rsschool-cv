@@ -53,6 +53,7 @@ body {
 
 .nav-list {
     display: flex;
+    flex-wrap: wrap;
     justify-content: flex-end;
     align-items: center;
     list-style: none;
@@ -85,6 +86,7 @@ body {
   
 .section {
     width: 50%;
+    min-width: 340px;
     padding: 10px 50px;
 }
 
@@ -171,6 +173,32 @@ h3 {
 
 .code {
     font-size: 14px;
+}
+
+.projects {
+    width: 100%;
+    padding: 10px 50px;
+}
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+.projects-img {
+    width: 400px;
+    height: 200px;
+    transition: all 0.3s;
+}
+
+.projects-img:hover {
+    scale: 1.05;
+}
+
+.project {
+    margin: 0;
 }
 
 .footer {
