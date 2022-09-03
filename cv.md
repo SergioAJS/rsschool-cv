@@ -1,4 +1,4 @@
-
+## [rsschool-cv](https://SergioAJS.github.io/rsschool-cv/)
 
 # Sergey Aslanov
 
@@ -7,6 +7,7 @@
 
 ## Contact information:
 
+Location: Voronezh, Russia  
 **E-mail:** SergFanMadrid@gmail.com  
 **Telegram:** @SergioAJS
 
@@ -32,6 +33,12 @@ function filter_list(l) {
   }
 ```
 
+## Projects:
+
+- [Travel](https://rolling-scopes-school.github.io/sergioajs-JSFEPRESCHOOL2022Q2/travel) (learning project) (HTML5, CSS, JS)
+- [Momentum](https://kaleidoscopic-medovik-f98c18.netlify.app) (learning project) (HTML5, CSS, JS)
+- [Eldritch horror](https://rolling-scopes-school.github.io/sergioajs-JSFEPRESCHOOL2022Q2/codejam-eldritch) (learning project) (HTML5, CSS, JS)
+
 ## Education and Courses:
 
 - Master, Faculty of Auto transport, Donetsk National Technical University
@@ -43,6 +50,6 @@ function filter_list(l) {
 ## Languages:
 
 - English - B1 intermediate to B2 upper intermediate (according to the online test at [www.efset.org](https://www.efset.org/))  
-![EnglishLevel](/rsschool-cv/img/MyEnglishLevel.png)
+![EnglishLevel](/rsschool-cv/assets/img/MyEnglishLevel.png)
 - Russian - native
 - Ukrainian - native
