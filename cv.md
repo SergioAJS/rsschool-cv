@@ -20,6 +20,7 @@ I work as car diagnostician. I like to spend a lot of time at the computer. My g
 - HTML5
 - CSS
 - JavaScript basics
+- Git
 - VS Code, Sublime Text
 
 ## Code example:
