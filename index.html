@@ -17,7 +17,7 @@
                     <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
                     <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
                     <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
-                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>             
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
                     <li class="nav-item"><a href="#courses" class="nav-link">Education and Courses</a></li>
                     <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
                 </ul>
@@ -58,14 +58,11 @@
             </section>
             <section class="section" id="code">
                 <h2 class="section-title">Code example:</h2>
-                <p class="link paragraph">List filtering Kata from <a  href="https://www.codewars.com/users/SergioAJS" target="_blank">Codewars:</a> create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.</p>
+                <p class="link paragraph">Remove First and Last Character Kata from <a  href="https://www.codewars.com/users/SergioAJS" target="_blank">Codewars:</a> your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.</p>
                 <pre>
-    <code class="code">function filter_list(l) {
-        const numbers = l.filter(el =&gt 
-        typeof(el) === 'number');
-        return numbers;
-     }</code>
-                </pre>
+    <code class="code">function removeChar(str){
+        return str.slice(1, str.length - 1);
+      };</code></pre>
             </section>
         </div>
             <section class="projects container" id="projects">
@@ -116,7 +113,7 @@
                 &copy; 2022 &nbsp;&nbsp;Github:&nbsp;
                 <a href="https://github.com/SergioAJS" target="_blank">SergioAJS</a>
             </div>
-            <a class="rsschool" href="https://rs.school/js/" target="_blank"></a>
+            <a class="rsschool" href="https://rs.school/js/" target="_blank">&nbsp</a>
         </div>
     </footer>
 </body>
