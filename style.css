@@ -34,8 +34,8 @@ body {
 }
 
 .avatar {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
 }
 
 #avatar {
@@ -67,7 +67,7 @@ body {
 
 .nav-list a {
     color: #727973;
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.5s;
 }
 
@@ -83,7 +83,7 @@ body {
     display: flex;
     flex-wrap: wrap;
 }
-  
+
 .section {
     width: 50%;
     min-width: 340px;
@@ -162,7 +162,7 @@ h3 {
     top: 10px;
     left: 0px;
     width: 5px;
-    height: 5px; 
+    height: 5px;
     border: 2px solid #37436f;
     border-radius: 50%;
   }
@@ -185,6 +185,10 @@ h3 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 30px;
+}
+
+.project {
+    max-width: 400px;
 }
 
 .projects-img {
