@@ -1,6 +1,6 @@
 ## [rsschool-cv](https://SergioAJS.github.io/rsschool-cv/)
 
-# Sergey Aslanov
+# Sergei Aslanov
 
 ## Junior Frontend Developer
 
@@ -9,7 +9,8 @@
 
 Location: Tashkent, Uzbekistan  
 **E-mail:** SergFanMadrid@gmail.com  
-**Telegram:** @SergioAJS
+**Telegram:** @SergioAJS  
+**LinkedIn:** [Sergei Aslanov](https://www.linkedin.com/in/sergei-aslanov-10808326b/)
 
 ## Briefly about myself:
 
@@ -18,7 +19,7 @@ I work as car diagnostician. I like to spend a lot of time at the computer. My g
 ## Skills:
 
 - HTML5, CSS, SCSS, SCSS modules, Tailwind CSS
-- JavaScript, React
+- JavaScript, TypeScript, React
 - Redux Toolkit, RTK Query
 - i18n, Leaflet
 - Webpack, Vite
@@ -47,10 +48,10 @@ function filter_list(l) {
 - [Online zoo](https://sergioajs.github.io/online-zoo/pages/main/index.html) (learning project) (HTML5, CSS, JS)
 - [Gem puzzle](https://gem-puzzle-sergioajs.netlify.app/) (learning project) (HTML5, CSS, JS, Webpack)
 - [Songbird](https://songbird-sergioajs.netlify.app/) (learning project) (HTML5, SCSS, JavaScript, Webpack, ESLint)
-- [Online store](https://andrey78945-sergioajs-onlinestoreteam.netlify.app/) (learning project) (SCSS modules, React, ESLint, Prettier)
-- [Golden Fleece](https://github.com/tritonJS826/goldenFleece) (learning project) (SCSS modules, React, React Router, Storybook, Swagger, Leaflet, GitHub actions, Docker, ESLint)
-- [RS-School-React](https://sergioajs-react2023-module05.netlify.app/) (learning project) (SCSS modules, React, React Router, Redux Toolkit, RTK Query, Redux thunk, Express, Vite, SSR, Cypress, Vitest, ESLint, Prettier, GitHub actions)
-- [Graphiql App](https://graphiql-app-just-do-it.netlify.app/) (learning project) (SCSS modules, React, React Router, Redux Toolkit, RTK Query, Redux thunk, Express, Vite, SSR, Cypress, Vitest, ESLint, Prettier, GitHub actions)
+- [Online store](https://andrey78945-sergioajs-onlinestoreteam.netlify.app/) (learning project) (SCSS modules, React, TypeScript, ESLint, Prettier)
+- [Golden Fleece](https://github.com/tritonJS826/goldenFleece) (learning project) (SCSS modules, React, TypeScript, React Router, Storybook, Swagger, Leaflet, GitHub actions, Docker, ESLint)
+- [RS-School-React](https://sergioajs-react2023-module05.netlify.app/) (learning project) (SCSS modules, React, TypeScript, React Router, Redux Toolkit, RTK Query, Redux thunk, Express, Vite, SSR, Cypress, Vitest, ESLint, Prettier, GitHub actions)
+- [Graphiql App](https://graphiql-app-just-do-it.netlify.app/) (learning project) (SCSS modules, React, TypeScript, React Router, Redux Toolkit, RTK Query, Redux thunk, Express, Vite, SSR, Cypress, Vitest, ESLint, Prettier, GitHub actions)
 
 ## Education and Courses:
 
