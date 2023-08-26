@@ -112,6 +112,10 @@ body {
     background-image: url(./assets/svg/Telegram_logo.svg);
  }
 
+ .icon:nth-child(4):before {
+    background-image: url(./assets/svg/Linkedin_circle.svg);
+ }
+
 .icon:before {
     content: "";
     position: absolute;
